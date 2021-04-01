@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rest-nutrialis/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/rest-nutrialis/static/js/main.74a2b862.chunk.js",
+    "main.js.map": "/rest-nutrialis/static/js/main.74a2b862.chunk.js.map",
+    "runtime-main.js": "/rest-nutrialis/static/js/runtime-main.1e0b4cea.js",
+    "runtime-main.js.map": "/rest-nutrialis/static/js/runtime-main.1e0b4cea.js.map",
+    "static/js/2.04d4a69b.chunk.js": "/rest-nutrialis/static/js/2.04d4a69b.chunk.js",
+    "static/js/2.04d4a69b.chunk.js.map": "/rest-nutrialis/static/js/2.04d4a69b.chunk.js.map",
+    "static/js/3.c66913ad.chunk.js": "/rest-nutrialis/static/js/3.c66913ad.chunk.js",
+    "static/js/3.c66913ad.chunk.js.map": "/rest-nutrialis/static/js/3.c66913ad.chunk.js.map",
+    "index.html": "/rest-nutrialis/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/rest-nutrialis/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.04d4a69b.chunk.js.LICENSE.txt": "/rest-nutrialis/static/js/2.04d4a69b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rest-nutrialis/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e0b4cea.js",
+    "static/js/2.04d4a69b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.74a2b862.chunk.js"
+  ]
+}
