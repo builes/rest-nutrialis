@@ -7,4 +7,4 @@ En este proyecto trabaje con 3 paquetes que son:
 -gh-pages: para subir el proyecto a github pages
 
 la funcionalidad y diseño de la pagina se puede ver en el siguiente link:
-https://0q27loouph.execute-api.us-east-1.amazonaws.com/
+https://builes.github.io/rest-nutrialis/
